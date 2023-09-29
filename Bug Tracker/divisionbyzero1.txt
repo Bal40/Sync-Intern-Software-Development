@@ -1,0 +1,11 @@
+Date and Time: Fri Sep 29 15:28:02 2023
+
+Bug ID: 1
+Reported By: divisionbyzero1.txt
+Bug Type: undefined
+Bug Priority: High
+Bug Description: try to divide by Zero
+
+
+Bug Entry Date and Time: Fri Sep 29 15:28:02 2023
+Bug Status: Delivered
